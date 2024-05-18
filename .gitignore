@@ -1,0 +1,16 @@
+.idea
+/logs
+dispatcher/target
+/bot/target
+/common-jpa/target
+/bot/src/main/resources/application.properties
+/bot/src/main/resources/log4j.properties
+/common-rabbitmq/target
+/common-utils/target
+/mail-service/target
+/mail-service/src/main/resources/application.properties
+/node/target
+/node/src/main/resources/application.properties
+/node/src/main/resources/log4j.properties
+/rest-service/target
+/rest-service/src/main/resources/application.properties
